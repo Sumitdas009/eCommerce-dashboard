@@ -1,0 +1,88 @@
+This is For CSE482 Project.
+all the work Done By Mahbubur Rahman and Mysha Rahman.
+the preview of this site will be in 
+https://mahbuburriad.com/shopcart
+
+
+
+
+the another preview of this site will be in 
+https://shopcartbd.cf
+
+
+## Title: Shopcart E-commerce Site
+
+## Overview:
+Shopcart is an E-commerce site. Well what is an E-commerce site? It a marketplace on the
+Internet, through which we can bring a population of millions of people under a single platform,
+where the buyer and seller can exchange and transport good from one place to another, over
+networked computers. The technique of attracting customers attention, describing products, and
+delivering them electronically will be interest to them who wants to participate in this new market,
+this project explain how business transaction can be executed across a medium like the internet and
+discuss the method being planned and implemented - like: how you will be buying and selling in
+future and how it will work.
+Significance:
+E-commerce is shopping online by staying at home. The objective behind this project is:
+1. To know the importance of E-commerce in today’s environment.
+2. Informal business to business transaction using internet. Ex: e-commerce.
+3. Consumer transaction with business or another member of public, using internet ecommerce.
+4. Consumers can buy from a far place without the hazard of travelling.
+5. It will be beneficial for everyone especially the person with disabilities and busy parents.
+
+##Software Specification:
+HTML, CSS, jQuery, Ajax, Bootstrap, raw php, MySQL database, Json, EMMAScript, clips,
+node.js
+
+##Description:
+###Front-End (Customer Section)
+In front-end section there are some featured product shown which are clicked by users or shop by
+users. In shop section there are some categories of product. Normally users will choose categories
+and in below product will be shown by users’ selectable category. User can choose by price, values,
+popularity, new available items and hot product which are in discount section. Users can purchase
+the product by adding them in cart. And they can purchase by online PayPal system. User can edit
+their product items number directly from the cart section and it will automatically update the price.
+It also offers coupons. If user have coupons they can add and price will be reduced by coupon offer.
+To buy a product user must have PayPal account and off-course have an account in the Shopcart ecommerce
+site. To shop things/register user must pass the captcha (google plugin). When the user
+wants some description of the product they click on that product then product details with the image
+will have arrived and the manufacturer-related product will be shown in the below. If one things
+not available it will show it is not available. If product price is reduced it will show 2 different
+prices. One is before price like 200 taka and it will be delete shown. But another is present price
+after discount. User can access specific manufacturer product by select them. It will fully
+responsive website and can access from mobile. There will be Android version of the product. That
+is make by WebView and very simple coding. In Xampp it can show by shopcart.com. Not
+localhost/shopcart.
+
+###Admin Panel
+Everything will be customizable from admin panel. admin can edit every section. Such as there are
+slide section in front-end. admin can change and edit from admin panel directly. User can update,
+edit. With adding then link. admin can add CSS directly from the admin panel. Admin can add
+coupons. Coupons will be adding by many things such as direct money reduce or percentage or
+after specific range is cross then coupon can apply otherwise it will reject. Admin can add product
+from admin panel with image. The link of the product is customizable, the default section is product
+link is initialized directly id their product id but from admin panel it is customizable and make a
+permanent link from admin panel. Admin can add admin. They can edit about page and all page
+from the admin panel. Admin can select top product categories. Suppose this is Eid time. Admin
+can select the categories from the admin panel and in front-end user see the Eid items first then will
+see the next all items. Admin can add product manufacturer, admin can add label which are new.
+Admin can offer any notice and other things and also job offer. Admin can see the ordered product.
+He can customize the level after product and also can edit and delete product from users’ request.
+Admin can see all the users and but cannot see the password. We will try to encrypt it. but if users
+give permission to decrypt it will decrypt and admin can see that specific users’ password. Admin
+can add users. Admin can add product for users. Admin can verify the payment from admin panel.
+Admin can add the gateway directly from the admin panel.
+
+## Features List:
+1. Coupon which will be applied to a certain product to reduce the price that is assigned in
+that particular coupon. It will be working as Discount.
+2. Wish List: A customer can request a product he/she would like to buy from the site in the
+nearby future.
+3. Chat: Chatting between the customer and the admin
+
+## Conclusion:
+The Site will be responsive and full customizable that means dynamics, which will use all the
+feature that will discuss in lab section. Site also have and android app. User can have full good
+experience in responsiveness and of-course design will be simple but have more feature available.
+The Internet is a parallel online world where all the resources are not fully exploited and where
+consumers may gain advantages. Here, companies may increase their profits further and users may
+find the desired product or service easily without the hassle of shopping around.
